@@ -4,6 +4,7 @@
 .bashrc
 .bash_profile
 .openvpn
+.docker/config.json
 .ssh/config
 .ssh/id_ed25519
 .ssh/id_ed25519.pub
