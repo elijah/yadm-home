@@ -1,4 +1,6 @@
 .npmrc
+.aws
+.aws-vault
 .bashrc
 .bash_profile
 .openvpn
